@@ -9,6 +9,5 @@ IC-Finder.tar.gz: MATLAB/GNU Octave subroutine with userguide
 
 benchmarks.tar.gz: Data for a benchmark of in silico HiC maps
 
-learningTAD.tar.gz: Data used to learn the IC-Finder default parameters
-
+Data used to learn the IC-Finder default parameters are available at: http://membres-timc.imag.fr/Daniel.Jost/DJ-TIMC/Software.html
 
